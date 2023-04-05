@@ -1,4 +1,4 @@
-# Работа с сетью в Android(Rest API): Retrofit, OkHttp, Gson, ViewModel, Coroutines, LiveData и т.п
+# Работа с сетью в Android(Rest API): Retrofit, OkHttp, Hilt, Gson, ViewModel, Coroutines, LiveData и т.п
 https://jsonplaceholder.typicode.com/
 # Stack:
 
